@@ -122,7 +122,7 @@ export const WinnerResultCard: React.FC<WinnerResultCardProps> = ({ name }) => {
                 <strong>사이즈 선택:</strong> 아래 안내된 <strong>장갑 사이즈 이미지(사이즈 표)</strong>를 꼭 참고하시어 설문 링크에서 사이즈를 선택해 주세요.
               </li>
               <li>
-                <strong>환불/교환 불가:</strong> 단체 맞춤 주문 및 출고 특성상 <strong>접수 후 사이즈 변경이나 환불/교환이 불가</strong>하므로, 신중하게 치수를 측정한 뒤 작성 부탁드립니다.
+                <strong>환불/교환 불가:</strong> <strong>접수 후 사이즈 변경이나 환불/교환이 불가</strong>하므로, 신중하게 치수를 측정한 뒤 작성 부탁드립니다.
               </li>
               <li>
                 <strong>로고 색상:</strong> 로고 색상은 <strong>화이트가 기본</strong>이나, 공급사 품절이나 수급 상황에 따라 <strong>블랙 색상으로 대체</strong>될 수 있습니다.
