@@ -1,0 +1,6 @@
+{
+  "name": "2026 Walkonnect BODY-FIT 주간 미션 결과 조회",
+  "description": "2026 Walkonnect BODY-FIT 근력 챌린지 2~3주차 주간 미션 리워드 당첨 결과 확인 및 장갑 사이즈 설문 안내",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
