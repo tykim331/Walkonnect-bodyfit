@@ -50,7 +50,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex flex-col bg-[#F7F4EA] selection:bg-[#95B8D1] selection:text-white">
       {/* Sticky Brand Header */}
-      <Header onOpenRoster={() => setIsRosterOpen(true)} />
+      <Header />
 
       {/* Main Content Area */}
       <main className="flex-1 max-w-4xl w-full mx-auto px-4 sm:px-6 pt-6 sm:pt-10 pb-16 space-y-8 sm:space-y-10">
